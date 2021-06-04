@@ -1,0 +1,5 @@
+iF YOU CANT LOAD PROJECTS:
+1- COPY URL LINK OF PROJECT
+2- GO TO 'https://nbviewer.jupyter.org'
+3- PASTE URL LINK IN SEARCH BAR
+4- PRESS 'Go!'
